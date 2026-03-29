@@ -1,0 +1,21 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "Type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prachi-Sharnagat/Backend_Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prachi-Sharnagat/Backend_Development/issues"
+  },
+  "homepage": "https://github.com/Prachi-Sharnagat/Backend_Development#readme",
+  "description": ""
+}
